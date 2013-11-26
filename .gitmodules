@@ -1,0 +1,3 @@
+[submodule "vendor/submodules/floobits"]
+	path = vendor/submodules/floobits
+	url = https://github.com/Floobits/floobits-emacs.git
